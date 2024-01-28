@@ -7,5 +7,7 @@ Out-of-school rate (Lower secondary education) which is the SDG goal 4.1.4 under
 
 # SDG Goal Targeted: SDG-4 Quality Education
 
+
+
 # Objective: 
 Our goal with this comparative analysis is to provide meaningful insights into Eastern and Western Africa's unique educational challenges. By understanding the relative factors that contribute to out-of-school rates, we aim to mitigate them through our analysis to promote inclusive and accessible lower secondary education in these regions.
